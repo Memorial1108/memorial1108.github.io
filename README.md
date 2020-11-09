@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 陈老的纪念网站
 
-You can use the [editor on GitHub](https://github.com/Memorial1108/memorial1108.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本站点是纪念网站
 
 ### Markdown
 
